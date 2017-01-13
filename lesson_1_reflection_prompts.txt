@@ -1,0 +1,68 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It pointed the bug right out. Made it super easy to find out were I went
+    wrong.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    It would allow me to make big changes and know that I can roll them back at
+    any time. This would free me to take bigger risks and try new things.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    I think it is better that you get to choose when to save a change. That way
+    you are able to save right before you make a big change and can easily roll
+    back to a functioning version.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    you save multipul files because they are usually linked. You may have
+    changed a variable name across multipul files.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    You use git log to see a log on your commits then you take the ID's of two
+    of the commit and use git diff to see the difference between the two
+    commits.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+  It would allow me to make big changes and know that I can roll them back at
+  any time. This would free me to take bigger risks and try new things.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I will try using git for all my future projects.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    You will be able to update and roll back changes to your file at any time.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    you save multipul files because they are usually linked. You may have
+    changed a variable name across multipul files.
+
+How can you use the commands git log and git diff to view the history of files?
+
+	   Use get log to see all the commit ID's. Use git log to see the
+     difference between the commit ID's
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    It would allow me to make big changes and know that I can roll them back at
+    any time. This would free me to take bigger risks and try new things.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I would like to try and make sure that all my projects are using git, and
+    that they are connected to git hub.
