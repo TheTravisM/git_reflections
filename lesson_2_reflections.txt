@@ -21,3 +21,8 @@ organized? How would branches help?
     Branches help when multipul people are working on the same folder but
     different issues. This allows them to make changes that will not effect the
     other users. When they are finshed they can then murge it back to master.
+
+How do the diagrams help you visualize the branch structure?
+
+    The diagrams show me the git structure. They all you to see what commits
+    are apart of each branch.
