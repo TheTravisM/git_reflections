@@ -8,3 +8,9 @@ What value do you think it offers?
 
     You move from working to staging. You only put things into staging that you
     are going to commit. This allows you to push some things but not all things.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+    You can choose to only add the files that make 1 logical change to staging.
+    You can also check staging to see if you have the correct files. If you do
+    not you can get add them.
