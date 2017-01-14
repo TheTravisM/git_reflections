@@ -35,3 +35,9 @@ What is the result of merging two branches together?
 Why do we represent it in the diagram the way we do?
 
     To have a better understanding of how the process works.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+
+    Automatic is nice but not good. Manually merging is a good Idea because
+    you are in charge, you have a reason to make a merge.
