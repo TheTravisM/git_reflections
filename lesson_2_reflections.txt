@@ -14,3 +14,10 @@ How can you use the staging area to make sure you have one commit per logical ch
     You can choose to only add the files that make 1 logical change to staging.
     You can also check staging to see if you have the correct files. If you do
     not you can get add them.
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+    Branches help when multipul people are working on the same folder but
+    different issues. This allows them to make changes that will not effect the
+    other users. When they are finshed they can then murge it back to master.
