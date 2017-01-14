@@ -26,3 +26,12 @@ How do the diagrams help you visualize the branch structure?
 
     The diagrams show me the git structure. They all you to see what commits
     are apart of each branch.
+
+What is the result of merging two branches together?
+
+    You move the code from one branch to master. You add all the changes
+    together.
+
+Why do we represent it in the diagram the way we do?
+
+    To have a better understanding of how the process works.
