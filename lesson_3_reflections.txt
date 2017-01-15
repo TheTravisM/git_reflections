@@ -1,0 +1,4 @@
+When would you want to create a remote directory rather than keeping all your work local?
+
+    You would want to create a local directory when you would like to share you code with other people and colaboriate.
+    You would also do this so that you have a back up of your code.
