@@ -1,4 +1,38 @@
-When would you want to create a remote directory rather than keeping all your work local?
+When would you want to create a remote directory rather than keeping all your work 
+local?
 
-    You would want to create a local directory when you would like to share you code with other people and colaboriate.
-    You would also do this so that you have a back up of your code.
+    You would want to create a local directory when you would like to share you 
+    code with other people and colaboriate. You would also do this so that you 
+    have a back up of your code.
+
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+
+    You would want to pull changes maually so that none of your code breaks.
+    You would pull to stay upto day as your work flow would permit.
+
+Describe the differences between forks, clones, and branches.  When would you
+use one instead of another?
+
+    Fork: When you pull from a branch to make a new one as to not affect the orgional branch.
+    
+    Clone: When you copy an entire project.
+    
+    Branch: Different versions of the same project that coexit but do not affect each other.
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+    The allows you to stay of to date with the latest changes of the code base.
+
+How would you collaborate without using Git or GitHub?  
+What would be easier, and what would be harder?
+
+    SVN is another way to colaberate without using Git
+    It depends on you personally. I like git more.
+
+When would you want to make changes in a separate branch rather than directly in
+master?  What benefits does each approach have?
+
+    You should never work directly in master. You should always create a seperate brach.
+    This way you will always have a functional master branch.
